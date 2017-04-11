@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="CRGL.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="62"/>
+        <CursorPos X="27" Y="81"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="layoutform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Layout"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UsageCount Value="26"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\packages\opengl\src\gl.pp"/>
+        <UnitName Value="GL"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="165"/>
+        <CursorPos X="3" Y="83"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="CRGL.lpr"/>
+        <Caret Line="6" Column="77"/>
+      </Position1>
+      <Position2>
+        <Filename Value="CRGL.lpr"/>
+        <Caret Line="27" Column="53" TopLine="14"/>
+      </Position2>
+      <Position3>
+        <Filename Value="CRGL.lpr"/>
+        <Caret Line="7" Column="3"/>
+      </Position3>
+      <Position4>
+        <Filename Value="CRGL.lpr"/>
+        <Caret Line="16" Column="4"/>
+      </Position4>
+      <Position5>
+        <Filename Value="CRGL.lpr"/>
+        <Caret Line="30" Column="36" TopLine="15"/>
+      </Position5>
+      <Position6>
+        <Filename Value="CRGL.lpr"/>
+        <Caret Line="31" Column="23" TopLine="17"/>
+      </Position6>
+      <Position7>
+        <Filename Value="CRGL.lpr"/>
+        <Caret Line="42" Column="23" TopLine="28"/>
+      </Position7>
+      <Position8>
+        <Filename Value="CRGL.lpr"/>
+        <Caret Line="46" Column="49" TopLine="33"/>
+      </Position8>
+      <Position9>
+        <Filename Value="CRGL.lpr"/>
+        <Caret Line="61" Column="50" TopLine="43"/>
+      </Position9>
+      <Position10>
+        <Filename Value="CRGL.lpr"/>
+        <Caret Line="133" Column="40" TopLine="122"/>
+      </Position10>
+      <Position11>
+        <Filename Value="CRGL.lpr"/>
+        <Caret Line="140" Column="90" TopLine="124"/>
+      </Position11>
+      <Position12>
+        <Filename Value="CRGL.lpr"/>
+        <Caret Line="135" Column="82" TopLine="124"/>
+      </Position12>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

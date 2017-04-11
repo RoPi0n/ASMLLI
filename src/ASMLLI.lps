@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="ASMLLI.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="asmlli"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="875"/>
+        <CursorPos X="35" Y="895"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.0.0\source\packages\rtl-objpas\src\inc\strutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="631"/>
+        <CursorPos X="13" Y="649"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\3.0.0\source\rtl\win\sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1266"/>
+        <CursorPos X="3" Y="68"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\3.0.0\source\rtl\win\wininc\ascfun.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="43"/>
+        <CursorPos X="9" Y="44"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\3.0.0\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="55" Y="12"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\fpc\3.0.0\source\rtl\inc\wstrings.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="587"/>
+        <CursorPos X="13" Y="581"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="21" HistoryIndex="20">
+      <Position1>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="3629" Column="34" TopLine="3610"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="166" Column="20" TopLine="157"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="902" Column="13" TopLine="891"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="234" Column="90" TopLine="232"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="3135" Column="27" TopLine="3117"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="3133" Column="41" TopLine="3123"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="103" Column="38" TopLine="88"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="3290" Column="19" TopLine="3281"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="3199" Column="7" TopLine="3187"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="3136" Column="22" TopLine="3125"/>
+      </Position10>
+      <Position11>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="3138" Column="30"/>
+      </Position11>
+      <Position12>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="3138" Column="30"/>
+      </Position12>
+      <Position13>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="3148" Column="49" TopLine="3130"/>
+      </Position13>
+      <Position14>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="3632" Column="54" TopLine="3613"/>
+      </Position14>
+      <Position15>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="843" Column="19" TopLine="825"/>
+      </Position15>
+      <Position16>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="860" Column="19" TopLine="843"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="866" Column="19" TopLine="849"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="843" Column="18" TopLine="833"/>
+      </Position18>
+      <Position19>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="860" Column="18" TopLine="843"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="866" Column="18" TopLine="849"/>
+      </Position20>
+      <Position21>
+        <Filename Value="ASMLLI.lpr"/>
+        <Caret Line="895" Column="35" TopLine="885"/>
+      </Position21>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
